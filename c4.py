@@ -1,4 +1,5 @@
 import binascii
+
 from c3 import *
 
 if __name__ == '__main__':
